@@ -1,2 +1,6 @@
 #virtual environments
 venv/
+
+#gitmodules
+.gitmodules
+   
