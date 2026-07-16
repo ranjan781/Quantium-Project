@@ -1,0 +1,3 @@
+[submodule "quantium-starter-repo"]
+	path = quantium-starter-repo
+	url = https://github.com/vagabond-systems/quantium-starter-repo.git
